@@ -6,8 +6,6 @@
 
 🔭 Estou me desenvolvendo como full-stack, mas atualmente trabalho com frond-end.
 
-⭐ Tecnologias em aprendizado: React, TypeScript, laravel(php)
-
 💬 Para entrar em contato comigo basta acessar minhas redes sociais: <a href="https://www.instagram.com/lucasj_santos0/">Instagram</a>
 
 ----
