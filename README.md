@@ -5,9 +5,6 @@
 > Sou um desenvolver front-end com muita criatividade, trabalho desenvolvendo páginas web e webApps.
 
 🔭 Estou me desenvolvendo como full-stack, mas atualmente trabalho com frond-end.
-
-💬 Para entrar em contato comigo basta acessar minhas redes sociais: <a href="https://www.instagram.com/lucasj_santos0/">Instagram</a>
-
 ----
 
 ## 🚀 Minhas Skills
