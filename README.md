@@ -2,9 +2,9 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-> Sou um desenvolver front-end com muita criatividade, trabalho desenvolvendo páginas web e webApps.
+> Sou um desenvolver fullstack com muita criatividade, trabalho desenvolvendo páginas web e webApps.
 
-🔭 Estou me desenvolvendo como full-stack, mas atualmente trabalho com frond-end.
+🔭 Sempre buscando me desenvolver na área de desenvolvimento web.
 ----
 
 ## 🚀 Minhas Skills
@@ -13,11 +13,13 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REACT"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NODE"/></code>
 
 
 ## 🚀 Skills em aprendizado
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NODE"/></code>
+- Rust
+- Cybersecurity
 
 
 ## 🚀 Ferramenta de desenvolvimento
