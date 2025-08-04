@@ -18,8 +18,9 @@
 
 
 ## 🚀 Skills em aprendizado
-- Rust
-- Cybersecurity
+- TypeScript
+- Fastify
+- ThreeJS
 
 
 ## 🚀 Ferramenta de desenvolvimento
