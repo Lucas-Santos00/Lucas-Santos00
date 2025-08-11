@@ -42,5 +42,5 @@ Para vagas formais, busco times que valorizem autonomia, aprendizado contínuo.
 
 # 📫 Contato
 - Email: `contato@lucass.io`  
-- LinkedIn: `https://www.linkedin.com/in/lucassantosj/`  
-- Portfolio / Site: `https://lucass.io`  
+- [Linkedin](https://www.linkedin.com/in/lucassantosj/)
+- [Portfolio / Site](https://lucass.io)  
